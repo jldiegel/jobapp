@@ -1,0 +1,62 @@
+form  {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
+#line1  {
+  display: flex;
+  flex-wrap: wrap;
+  border-top: 1px #c4c4c4 solid;
+  border-bottom: 1px #c4c4c4 solid;
+  border-left: 1px #c4c4c4 solid;
+}
+
+#line2  {
+  display: flex;
+  border-bottom: 1px #c4c4c4 solid;
+  border-left: 1px #c4c4c4 solid;
+}
+
+#line3  {
+  display: flex;
+  border-bottom: 1px #c4c4c4 solid;
+  border-left: 1px #c4c4c4 solid;
+}
+
+
+
+#line4  {
+  display: flex;
+}
+
+
+
+.cell {
+  color: #2a560a;
+  border-right: 1px #c4c4c4 solid;
+  height: 75px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+h1  {
+  text-align: center;
+  color: #7a9666
+}
+
+p {
+  text-align: center;
+}
+
+input  {
+  border: none;
+
+}
+
+button  {
+  background-color: #7a9666;
+}
